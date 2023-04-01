@@ -1,5 +1,4 @@
 # Music_Genre_Classification
-Predicting the genre of a music track based on its audio features and other metadata.
 
 Problem Statement: Predicting the genre of a music track based on its audio features and other metadata.
 
